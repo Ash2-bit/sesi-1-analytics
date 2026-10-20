@@ -13,7 +13,7 @@ Studi kasus ini mensimulasikan peran seorang Data Analyst yang harus menangani d
 4. **Agregasi Laporan:** Menyajikan ringkasan eksekutif yang bersih dan siap dihubungkan ke *dashboard* visualisasi (seperti Tableau, PowerBI, atau Vue.js frontend).
 
 ## 💻 Implementasi Kode (Python - Pandas)
-Berikut adalah skrip pemrosesan datanya yang dapat Anda jalankan melalui file `data_cleaning.py`.
+Berikut adalah skrip pemrosesan datanya yang dapat dijalankan melalui file `data_cleaning.py`.
 
 ```python
 import pandas as pd
