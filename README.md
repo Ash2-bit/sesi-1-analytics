@@ -2,7 +2,7 @@
 **Mitigasi "Garbage In, Garbage Out" pada Data Inventaris Agribisnis**
 
 ## 📖 Deskripsi Studi Kasus
-Dalam penerapan analitika data di dunia bisnis yang sesungguhnya, data operasional yang ditarik dari berbagai cabang atau gudang sering kali sangat berantakan. Algoritma visualisasi dan dasbor semahal apa pun tidak akan berguna jika data dasarnya cacat—sebuah prinsip yang dikenal sebagai *Garbage In, Garbage Out* (GIGO). 
+Dalam penerapan analitika data di dunia bisnis yang sesungguhnya, data operasional yang ditarik dari berbagai cabang atau gudang sering kali sangat berantakan. Algoritma visualisasi dan dasbor semahal apa pun tidak akan berguna jika data dasarnya cacat sebuah prinsip yang dikenal sebagai *Garbage In, Garbage Out* (GIGO). 
 
 Studi kasus ini mensimulasikan peran seorang Data Analyst yang harus menangani data mentah distribusi logistik (seperti pupuk untuk perkebunan kelapa sawit) yang ditarik dari input manual berbagai *supervisor* gudang. Data ini penuh dengan anomali: format tanggal yang tidak konsisten, *human error* (seperti input angka negatif pada stok), dan nilai yang hilang (*missing values*).
 
